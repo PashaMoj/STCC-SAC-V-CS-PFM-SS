@@ -21,8 +21,8 @@ imperfect maintenance, early replacement, and economic design of Xbar control ch
 - M. A. Pasha, Y. Khadem & M. B. Moghadam (2017) Application of decreasing
 integrated hazard in Rahim and Banerjee model on economic design of Xbar control charts for systems
 with increasing failure rate and early replacement, Communications in Statistics - Theory and
-Methods, 46:21, 10481-10494. DOI: 10.1080/03610926.2016.1236962
+Methods, 46:21, 10481-10494. https://doi.org/10.1080/03610926.2016.1236962
 
 - M. A. Pasha, M. B. Moghadam & Sh. Fani (2017) A generalized approach to
 economic design of control charts: A discussion on implementing, Communications in Statistics -
-Theory and Methods, 46:21, 10495-10506, DOI: 10.1080/03610926.2016.1236963
+Theory and Methods, 46:21, 10495-10506, https://doi.org/10.1080/03610926.2016.1236963
