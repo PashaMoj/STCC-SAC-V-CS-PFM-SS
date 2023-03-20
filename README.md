@@ -1,7 +1,7 @@
 # STCC-SAC-V-CS-PFM-SS
 Optimal Design of "Shewhart-Type" Control Charts under a "Single" Assignable Cause and "Various" Control Statistics, Process Failure Mechanisms, and Sampling Schemes
 
-This code is capable to be used for the economic and economic statistical design of Shewhart-type control charts with/under:
+Description: This code is capable to be used for the economic and economic statistical design of Shewhart-type control charts with/under:
 - a single assignable cause,
 - univariate and multivariate control statistics (e.g., Xbar and T2 Hotelling),
 - normal and non-normal quality data in univariate cases,
