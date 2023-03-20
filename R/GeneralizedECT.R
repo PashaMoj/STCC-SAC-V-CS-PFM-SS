@@ -19,11 +19,11 @@ rm(list=ls())
 
 ##Control Statistics Distribution
 
-INorm<-readline(prompt="Enter 1 for the Univariate Normal Case, Otherwise Enter 0:")
+INorm<-readline(prompt="Enter 1 for the Normal Xbar Chart, Otherwise Enter 0:")
 INorm<-as.numeric(INorm)
 if (INorm!=1 & INorm!=0) {print("Error: Enter 1 or 0")}
 
-INNorm<-readline(prompt="Enter 1 or the Univariate Non-normal(Burr) Case, Otherwise Enter 0:")
+INNorm<-readline(prompt="Enter 1 or the Non-normal (Burr) Xbar Chart, Otherwise Enter 0:")
 INNorm<-as.numeric(INNorm)
 if (INNorm!=1 & INNorm!=0){print("Error: Enter 1 or 0")}
 
